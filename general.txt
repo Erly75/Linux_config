@@ -1,0 +1,10 @@
+// para la configuracion de wifi en debian-11
+https://www.youtube.com/watch?v=JYGYxLpUouQ
+para saber el tipo de adaptador: lspci
+
+
+// para las extensiones de gnome
+ir a la pag de gnome
+activarla en el navegador
+buscar extensiones
+si es necesario descargar segun la version de gnome
